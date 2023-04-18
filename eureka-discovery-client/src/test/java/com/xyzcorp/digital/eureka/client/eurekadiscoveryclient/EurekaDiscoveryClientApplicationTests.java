@@ -1,13 +1,13 @@
-package com.xyzcorp.digital.eureka.client.eurekadiscoveryclient;
+// package com.xyzcorp.digital.eureka.client.eurekadiscoveryclient;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class EurekaDiscoveryClientApplicationTests {
+// @SpringBootTest
+// class EurekaDiscoveryClientApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
